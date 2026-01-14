@@ -9,3 +9,4 @@ This repository contains my early Python projects, focusing on fundamental conce
 6 **file_reader.py**: Automating data retrieval from external `.txt` files.
 7 **file_writer.py**: An interactive tool for saving and appending data to files.
 8 crypto_price.py**: A real-time Bitcoin price tracker using public API integration and JSON parsing
+9 trading_assistant.py**: An automated advisor that analyzes live market data and suggests trading strategies
