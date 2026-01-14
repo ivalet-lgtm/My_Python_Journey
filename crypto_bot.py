@@ -2,7 +2,7 @@ import requests
 import telebot
 
 # Credentials
-BOT_TOKEN = "8504559981:AAFspiT9zI1QrKL-lBibJsTzVndVl6F380Y"
+BOT_TOKEN = "YOUR_TOKEN_HERE"
 CHAT_ID = "6196771679" 
 
 bot = telebot.TeleBot(BOT_TOKEN)
@@ -33,4 +33,5 @@ try:
     print("Success: Message sent!")
 
 except Exception as e:
+
     print(f"Error: {e}")
