@@ -1,12 +1,27 @@
-# My Python Learning Journey
-This repository contains my early Python projects, focusing on fundamental concepts, automation, and data handling.
-   ## Project List:
-1 **first.py**: Introduction to variables, user input, and basic conditional logic.
-2 **goal_tracker.py**: A financial goal tracker using `while` loops and error handling (`try-except`).
-3 **list_practice.py**: Managing inventory using Python lists and list methods.
-4 **search_logic.py**: An optimized search tool for inventory management with input formatting.
-5 **price_list.py**: Using dictionaries to store and retrieve product pricing data.
-6 **file_reader.py**: Automating data retrieval from external `.txt` files.
-7 **file_writer.py**: An interactive tool for saving and appending data to files.
-8 crypto_price.py**: A real-time Bitcoin price tracker using public API integration and JSON parsing
-9 trading_assistant.py**: An automated advisor that analyzes live market data and suggests trading strategies
+# 🐍 Python Automation & API Portfolio
+Welcome to my Python learning and project journey! This repository showcases my transition from basic programming concepts to real-world automation tools, including API integrations and Telegram bots.
+
+## 🚀 Featured Projects
+
+### 💎 Crypto & Automation (Advanced)
+* **price_alert_bot.py**: A professional-grade monitoring tool that tracks live Bitcoin prices 24/7. It features an automated alert system that sends Telegram notifications when specific market targets are hit.
+* **crypto_bot.py**: Real-time Bitcoin price reporter integrated with the Telegram Bot API.
+* **crypto_price.py**: Financial data fetching tool using Binance & CoinDesk APIs with JSON parsing.
+
+### 📂 Data & File Management
+* **file_writer.py** & **file_reader.py**: Tools for automating data storage and retrieval using external `.txt` files.
+* **price_list.py**: Advanced use of Python Dictionaries for inventory and pricing management.
+
+### 🛠️ Core Logic & Algorithms
+* **search_logic.py**: Optimized search algorithms for inventory handling.
+* **goal_tracker.py**: Financial goal calculator with robust error handling (`try-except`).
+* **list_practice.py**: Dynamic data management using Python Lists.
+
+## 🛠️ Tech Stack
+* **Language:** Python 3.x
+* **Libraries:** `requests`, `pyTelegramBotAPI`, `time`, `json`
+* **APIs:** Binance Public API
+* **Concepts:** Asynchronous monitoring, Error Handling, Data Parsing, Automation.
+
+---
+*Created by Giorgi - Open for Python Automation opportunities on Upwork!*
