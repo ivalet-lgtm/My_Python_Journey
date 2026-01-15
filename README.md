@@ -1,27 +1,50 @@
-# 🐍 Python Automation & API Portfolio
-Welcome to my Python learning and project journey! This repository showcases my transition from basic programming concepts to real-world automation tools, including API integrations and Telegram bots.
+# 🚀 My Python Journey: Crypto Analytics & Automation
 
-## 🚀 Featured Projects
+Welcome to my Python project repository! This collection showcases my progress in developing professional tools for real-time cryptocurrency market monitoring, data analysis, and automated reporting.
 
-### 💎 Crypto & Automation (Advanced)
-* **price_alert_bot.py**: A professional-grade monitoring tool that tracks live Bitcoin prices 24/7. It features an automated alert system that sends Telegram notifications when specific market targets are hit.
-* **crypto_bot.py**: Real-time Bitcoin price reporter integrated with the Telegram Bot API.
-* **crypto_price.py**: Financial data fetching tool using Binance & CoinDesk APIs with JSON parsing.
+## 🌟 Key Features
 
-### 📂 Data & File Management
-* **file_writer.py** & **file_reader.py**: Tools for automating data storage and retrieval using external `.txt` files.
-* **price_list.py**: Advanced use of Python Dictionaries for inventory and pricing management.
-
-### 🛠️ Core Logic & Algorithms
-* **search_logic.py**: Optimized search algorithms for inventory handling.
-* **goal_tracker.py**: Financial goal calculator with robust error handling (`try-except`).
-* **list_practice.py**: Dynamic data management using Python Lists.
+* **Smart Telegram Bot (@AiBatono_Crypto_Bot):** Integrated with Binance API to provide live price updates and visual trend reports.
+* **Data Analytics:** Automated data collection using `Pandas` for structured logging in CSV format.
+* **Data Visualization:** Dynamic chart generation using `Matplotlib` to visualize market volatility and price trends.
+* **Real-time Alerts:** Automated monitoring systems designed to notify users of significant price movements.
 
 ## 🛠️ Tech Stack
-* **Language:** Python 3.x
-* **Libraries:** `requests`, `pyTelegramBotAPI`, `time`, `json`
-* **APIs:** Binance Public API
-* **Concepts:** Asynchronous monitoring, Error Handling, Data Parsing, Automation.
 
----
-*Created by Giorgi - Open for Python Automation opportunities on Upwork!*
+* **Language:** Python 3.x
+* **Libraries:** `pyTelegramBotAPI`, `pandas`, `matplotlib`, `requests`
+* **APIs:** Binance Public API
+
+## 📂 Project Highlights
+
+| File | Description |
+| :--- | :--- |
+| **smart_crypto_bot.py** | **Flagship Project:** A Telegram bot that fetches live data and sends visual analysis reports (Charts) directly to the user. |
+| **crypto_analytics.py** | Core engine for fetching market data and performing statistical analysis (Mean, Max, Min). |
+| **price_alert_bot.py** | Independent script for 24/7 price monitoring and automated user notifications. |
+| **trading_assistant.py** | Script for basic trading calculations and data management. |
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/ivalet-lgtm/My_Python_Journey.git](https://github.com/ivalet-lgtm/My_Python_Journey.git)
+Install dependencies:
+
+Bash
+
+pip install pyTelegramBotAPI pandas matplotlib requests
+Set up your Bot Token: Open smart_crypto_bot.py and replace the TOKEN variable with your actual Telegram Bot Token from @BotFather.
+
+Launch the Bot:
+
+python smart_crypto_bot.py
+
+Author: L. Mgeliashvili
+
+
+
+
+
+
+
